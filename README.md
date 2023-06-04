@@ -15,7 +15,6 @@ Scroll up -> goto browse code
 
 
 # Contact
-- If you faced any problems regarding install and Run then you can contact me through [Mail](https://mail.google.com/mail/u/0/#inbox?compose=abhihours24@gmail.com)
-<!--(https://mail.google.com/mail/to=abhihours24@gmail.com&subject=Installation-error)-->
+- If you faced any problems regarding install and Run then you can contact me through [Telegram](https://t.me/abhijitsahooabhi)
 
 # thank you for visits.....😊
