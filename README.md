@@ -42,4 +42,4 @@ Thank you for visiting this repository. Your support and interest are greatly ap
 
 If you encounter any issues with installation or running the programs, or if you have any questions or feedback, feel free to reach out to me:
 
-- Telegram: [@abhijitsahooabhi](https://t.me/abhijitsahooabhi)
+<p align="center"><a href="https://t.me/abhijitsahooabhi">  <img width="45" height="45" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/telegram-app.png"/></a>  <a href="nkedin.com/in/abhijit-sahoo-993a4a303"><img width="45" height="45" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin-circled.png"/> </a></p>
